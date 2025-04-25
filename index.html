@@ -3,25 +3,92 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>我的网站</title>
+    <title>Saint Novel</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
     <style>
-        body {
-            font-family: Arial, sans-serif;
+        :root {
+            --primary-color: #2c3e50;
+            --accent-color: #3498db;
+            --text-color: #333;
+            --light-color: #f8f9fa;
+            --spacing-unit: 1rem;
+        }
+        
+        * {
+            box-sizing: border-box;
             margin: 0;
-            padding: 20px;
+            padding: 0;
+        }
+        
+        body {
+            font-family: 'Open Sans', Arial, sans-serif;
+            color: var(--text-color);
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+            min-height: 100vh;
             display: flex;
             flex-direction: column;
             align-items: center;
         }
+        
+        .container {
+            width: 100%;
+            max-width: 1200px;
+            padding: 2rem;
+            margin: 0 auto;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        
+        header {
+            text-align: center;
+            padding: 3rem 1rem;
+            width: 100%;
+        }
+        
+        h1 {
+            font-family: 'Montserrat', sans-serif;
+            font-weight: 700;
+            font-size: 2.8rem;
+            color: var(--primary-color);
+            margin-bottom: 1.5rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            position: relative;
+            display: inline-block;
+        }
+        
+        h1::after {
+            content: '';
+            display: block;
+            width: 60px;
+            height: 4px;
+            background-color: var(--accent-color);
+            margin: 0.8rem auto 0;
+        }
+        
         .video-container {
             width: 100%;
-            max-width: 800px;
-            margin: 20px 0;
+            max-width: 850px;
+            margin: 2rem auto;
             position: relative;
             padding-bottom: 56.25%; /* 16:9 高宽比 */
             height: 0;
             overflow: hidden;
+            border-radius: 10px;
+            box-shadow: 0 15px 30px rgba(0,0,0,0.1);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
         }
+        
+        .video-container:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 20px 40px rgba(0,0,0,0.15);
+        }
+        
         .video-container iframe {
             position: absolute;
             top: 0;
@@ -29,24 +96,83 @@
             width: 100%;
             height: 100%;
             border: 0;
+            border-radius: 10px;
+        }
+        
+        .contact-section {
+            margin-top: 3rem;
+            padding: 2rem;
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+            text-align: center;
+            width: 100%;
+            max-width: 600px;
+        }
+        
+        .contact-section p {
+            font-size: 1.1rem;
+            line-height: 1.6;
+            color: var(--text-color);
+        }
+        
+        .email {
+            color: var(--accent-color);
+            font-weight: 600;
+            text-decoration: none;
+            transition: color 0.2s ease;
+        }
+        
+        .email:hover {
+            color: #2980b9;
+            text-decoration: underline;
+        }
+        
+        footer {
+            margin-top: auto;
+            padding: 1.5rem;
+            width: 100%;
+            text-align: center;
+            font-size: 0.9rem;
+            color: #7f8c8d;
+        }
+        
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 2.2rem;
+            }
+            
+            .container {
+                padding: 1rem;
+            }
+            
+            .contact-section {
+                padding: 1.5rem;
+            }
         }
     </style>
 </head>
 <body>
-    <h1>Welcome to SaintBioNovel!</h1>
-    
-    <div class="video-container">
-        <!-- YouTube 视频嵌入 -->
-        <!-- 将下面的VIDEO_ID替换为您的YouTube视频ID -->
-        <iframe src="https://www.youtube.com/embed/uBQ7swOuF-I" 
-                title="YouTube video player" 
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen>
-        </iframe>
-    </div>
+    <div class="container">
+        <header>
+            <h1>Welcome to Saint Novel</h1>
+        </header>
+        
+        <div class="video-container">
+            <iframe src="https://www.youtube.com/embed/G39MZYZeoDg" 
+                    title="YouTube video player" 
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                    allowfullscreen>
+            </iframe>
+        </div>
 
-    <div>
-        <p>Reach official@saintbionovel.tech for more details.</p>
+        <div class="contact-section">
+            <p>Contact us at <a href="mailto:official@saintnovelbio.tech" class="email">official@saintnovelbio.tech</a></p>
+        </div>
     </div>
+    
+    <footer>
+        <p>© 2023 Saint Novel. All rights reserved.</p>
+    </footer>
 </body>
 </html> 
