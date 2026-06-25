@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img" aria-labelledby="title desc">
+  <title id="title">SaintChem placeholder</title>
+  <desc id="desc">Dark placeholder illustration for SaintChem.</desc>
+  <rect width="800" height="800" fill="#05070a"/>
+  <circle cx="400" cy="400" r="250" fill="none" stroke="#e5e7eb" stroke-opacity=".08" stroke-width="2"/>
+  <path d="M306 340l94-54 94 54v108l-94 54-94-54Z" fill="none" stroke="#f8fafc" stroke-opacity=".44" stroke-width="12" stroke-linejoin="round"/>
+  <path d="M400 286v108l94 54M400 394l-94 54" stroke="#94a3b8" stroke-opacity=".35" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="400" cy="394" r="16" fill="#f8fafc" fill-opacity=".5"/>
+  <circle cx="306" cy="340" r="12" fill="#f8fafc" fill-opacity=".34"/>
+  <circle cx="494" cy="448" r="12" fill="#f8fafc" fill-opacity=".34"/>
+  <path d="M530 304l56-34M530 496l56 34M270 304l-56-34M270 496l-56 34" stroke="#f8fafc" stroke-opacity=".26" stroke-width="10" stroke-linecap="round"/>
+</svg>

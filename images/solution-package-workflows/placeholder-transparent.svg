@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" fill="none" role="img" aria-label="Workflow visual placeholder">
+  <path
+    d="M180 520 L480 280 L800 420 L1120 260 L1420 380"
+    stroke="rgba(148,163,184,0.32)"
+    stroke-width="2"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+  <circle cx="480" cy="280" r="10" stroke="rgba(148,163,184,0.38)" stroke-width="2" />
+  <circle cx="800" cy="420" r="10" stroke="rgba(148,163,184,0.38)" stroke-width="2" />
+  <circle cx="1120" cy="260" r="10" stroke="rgba(148,163,184,0.38)" stroke-width="2" />
+  <path
+    d="M320 640 L640 560 L960 680 L1280 600"
+    stroke="rgba(148,163,184,0.22)"
+    stroke-width="1.5"
+    stroke-linecap="round"
+    stroke-dasharray="6 8"
+  />
+  <text
+    x="800"
+    y="760"
+    text-anchor="middle"
+    fill="rgba(148,163,184,0.42)"
+    font-family="system-ui, sans-serif"
+    font-size="26"
+  >
+    Workflow visual placeholder
+  </text>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img" aria-labelledby="title desc">
+  <title id="title">Digital Humanized Mice placeholder</title>
+  <desc id="desc">Dark placeholder illustration for the Digital Humanized Mice foundational engine.</desc>
+  <path d="M246 428c0-98 72-178 162-178s162 80 162 178c0 86-64 154-162 154s-162-68-162-154Z" fill="none" stroke="#f8fafc" stroke-opacity=".44" stroke-width="12"/>
+  <path d="M264 298c-48-54-32-104 26-120 34 32 47 74 22 126M536 298c48-54 32-104-26-120-34 32-47 74-22 126" fill="none" stroke="#94a3b8" stroke-opacity=".34" stroke-width="12" stroke-linecap="round"/>
+  <path d="M335 426h130M316 470h168M346 514h108" stroke="#f8fafc" stroke-opacity=".34" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="348" cy="374" r="12" fill="#f8fafc" fill-opacity=".64"/>
+  <circle cx="452" cy="374" r="12" fill="#f8fafc" fill-opacity=".64"/>
+  <path d="M400 397l-22 26h44Z" fill="#f8fafc" fill-opacity=".42"/>
+  <circle cx="400" cy="400" r="258" fill="none" stroke="#e5e7eb" stroke-opacity=".08" stroke-width="2"/>
+</svg>

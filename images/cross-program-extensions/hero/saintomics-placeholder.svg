@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img" aria-labelledby="title desc">
+  <title id="title">SaintOmics placeholder</title>
+  <desc id="desc">Dark placeholder illustration for SaintOmics.</desc>
+  <rect width="800" height="800" fill="#05070a"/>
+  <circle cx="400" cy="400" r="250" fill="none" stroke="#e5e7eb" stroke-opacity=".08" stroke-width="2"/>
+  <path d="M314 246c100 74 100 234 0 308M486 246c-100 74-100 234 0 308" fill="none" stroke="#f8fafc" stroke-opacity=".42" stroke-width="12" stroke-linecap="round"/>
+  <path d="M330 318h140M330 400h140M330 482h140" stroke="#94a3b8" stroke-opacity=".36" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="400" cy="318" r="12" fill="#f8fafc" fill-opacity=".45"/>
+  <circle cx="400" cy="400" r="12" fill="#f8fafc" fill-opacity=".55"/>
+  <circle cx="400" cy="482" r="12" fill="#f8fafc" fill-opacity=".45"/>
+</svg>

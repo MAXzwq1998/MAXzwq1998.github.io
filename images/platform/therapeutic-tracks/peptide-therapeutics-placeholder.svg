@@ -1,0 +1,23 @@
+<svg width="1200" height="1500" viewBox="0 0 1200 1500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="1500" fill="#0A0A0A"/>
+  <defs>
+    <radialGradient id="pt-glow" cx="42%" cy="44%" r="60%">
+      <stop offset="0%" stop-color="#353535" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#0A0A0A" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="pt-ring" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#5A5A5A"/>
+      <stop offset="100%" stop-color="#2A2A2A"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="1500" fill="url(#pt-glow)"/>
+  <circle cx="600" cy="560" r="260" stroke="url(#pt-ring)" stroke-width="2" fill="#141414" fill-opacity="0.45"/>
+  <circle cx="600" cy="560" r="190" stroke="#444444" stroke-width="1.5" fill="none"/>
+  <circle cx="600" cy="560" r="120" stroke="#333333" stroke-width="1" fill="none"/>
+  <path d="M600 300 L640 420 L760 440 L670 530 L700 650 L600 580 L500 650 L530 530 L440 440 L560 420 Z" stroke="#4F4F4F" stroke-width="1.5" fill="#1B1B1B" fill-opacity="0.35"/>
+  <rect x="220" y="960" width="760" height="180" rx="20" fill="#151515" fill-opacity="0.55"/>
+  <path d="M260 1040 H940" stroke="#2B2B2B" stroke-width="1"/>
+  <path d="M260 1080 H820" stroke="#242424" stroke-width="1"/>
+  <text x="600" y="1260" text-anchor="middle" fill="#666666" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="28" letter-spacing="0.18em">IMAGE PLACEHOLDER</text>
+  <text x="600" y="1320" text-anchor="middle" fill="#8A8A8A" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="22" letter-spacing="0.14em">PEPTIDE THERAPEUTICS</text>
+</svg>
