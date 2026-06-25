@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img" aria-labelledby="title desc">
+  <title id="title">SaintAtlas placeholder</title>
+  <desc id="desc">Dark placeholder illustration for SaintAtlas.</desc>
+  <rect width="800" height="800" fill="#05070a"/>
+  <circle cx="400" cy="400" r="250" fill="none" stroke="#e5e7eb" stroke-opacity=".08" stroke-width="2"/>
+  <path d="M250 430c72-128 228-136 300-8M278 360c54-68 190-74 244-4M322 510c56 38 116 38 172 0" fill="none" stroke="#f8fafc" stroke-opacity=".38" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="312" cy="390" r="18" fill="#f8fafc" fill-opacity=".34"/>
+  <circle cx="402" cy="334" r="18" fill="#f8fafc" fill-opacity=".46"/>
+  <circle cx="500" cy="400" r="18" fill="#f8fafc" fill-opacity=".34"/>
+  <path d="M312 390l90-56 98 66M312 390l182 120M500 400l-6 110" stroke="#94a3b8" stroke-opacity=".3" stroke-width="8" stroke-linecap="round"/>
+</svg>

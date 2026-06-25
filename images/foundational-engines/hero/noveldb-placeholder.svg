@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img" aria-labelledby="title desc">
+  <title id="title">NovelDB placeholder</title>
+  <desc id="desc">Dark placeholder illustration for the NovelDB foundational engine.</desc>
+  <circle cx="400" cy="400" r="260" fill="none" stroke="#e5e7eb" stroke-opacity=".08" stroke-width="2"/>
+  <circle cx="400" cy="400" r="188" fill="none" stroke="#e5e7eb" stroke-opacity=".16" stroke-width="2"/>
+  <ellipse cx="400" cy="400" rx="150" ry="52" fill="none" stroke="#f8fafc" stroke-opacity=".52" stroke-width="12"/>
+  <ellipse cx="400" cy="400" rx="150" ry="52" fill="none" stroke="#94a3b8" stroke-opacity=".22" stroke-width="44"/>
+  <path d="M250 360h300M250 400h300M250 440h300" stroke="#f8fafc" stroke-opacity=".42" stroke-width="12" stroke-linecap="round"/>
+  <path d="M270 335c86-58 174-58 260 0M270 465c86 58 174 58 260 0" stroke="#f8fafc" stroke-opacity=".28" stroke-width="10" stroke-linecap="round"/>
+</svg>

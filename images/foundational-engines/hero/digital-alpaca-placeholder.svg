@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img" aria-labelledby="title desc">
+  <title id="title">Digital Alpaca placeholder</title>
+  <desc id="desc">Dark placeholder illustration for the Digital Alpaca foundational engine.</desc>
+  <path d="M304 554V358c0-94 64-166 148-166 54 0 94 28 122 72" fill="none" stroke="#f8fafc" stroke-opacity=".46" stroke-width="14" stroke-linecap="round"/>
+  <path d="M450 194l-18-86M512 218l52-70M340 404c64-18 126-16 186 6M336 466c76-24 144-20 202 12" fill="none" stroke="#94a3b8" stroke-opacity=".38" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="454" cy="304" r="12" fill="#f8fafc" fill-opacity=".7"/>
+  <path d="M506 306c24 10 50 10 76 0M518 350c14 20 34 31 60 33" fill="none" stroke="#f8fafc" stroke-opacity=".4" stroke-width="10" stroke-linecap="round"/>
+  <path d="M264 560h304" stroke="#f8fafc" stroke-opacity=".26" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="400" cy="400" r="258" fill="none" stroke="#e5e7eb" stroke-opacity=".08" stroke-width="2"/>
+</svg>
