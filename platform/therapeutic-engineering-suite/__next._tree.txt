@@ -4,10 +4,10 @@
 :HL["/_next/static/media/aff755c8b4bb3089-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/bb3ef058b751a6ad-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/css/dbb9e64265fccf04.css","style"]
-:HL["/_next/static/css/6d866082c6a6700e.css","style"]
+:HL["/_next/static/css/ad183b92dfb38c63.css","style"]
 :HL["/_next/static/css/d461320ca938ec41.css","style"]
 :HL["/images/therapeutic-engineering-suite/novelagent-expln-v1.png","image"]
 :HL["/images/therapeutic-engineering-suite/novelfold-expln-v1.png","image"]
 :HL["/images/therapeutic-engineering-suite/novelfold-comps-v1.png","image"]
 :HL["/images/therapeutic-engineering-suite/novelscreen-expln-v1.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"platform","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"oc","key":"therapeutic-engineering-suite","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"O1GRVOsEIIrOSbz5h9foi"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"platform","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"oc","key":"therapeutic-engineering-suite","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"Yvr030TacltU95keIAV7b"}
