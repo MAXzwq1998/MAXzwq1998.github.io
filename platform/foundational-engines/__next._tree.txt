@@ -3,11 +3,11 @@
 :HL["/_next/static/media/9cf9c6e84ed13b5e-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/aff755c8b4bb3089-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/bb3ef058b751a6ad-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/css/dbb9e64265fccf04.css","style"]
-:HL["/_next/static/css/ad183b92dfb38c63.css","style"]
-:HL["/_next/static/css/d461320ca938ec41.css","style"]
+:HL["/_next/static/css/087beb66548e8f5c.css","style"]
+:HL["/_next/static/css/49d2860c14face7d.css","style"]
+:HL["/_next/static/css/28c3e220829c3107.css","style"]
 :HL["/images/foundational-engines/noveldb-expln-v3.png","image"]
 :HL["/images/foundational-engines/digital-mice-expln-v3.png","image"]
 :HL["/images/foundational-engines/digital-alpaca-expln-v3.png","image"]
 :HL["/images/foundational-engines/novellab-expln-v3.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"platform","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"oc","key":"foundational-engines","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"Yvr030TacltU95keIAV7b"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"platform","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"oc","key":"foundational-engines","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"QO_Vdj3XdOerovI-3LQsi"}
